@@ -1,0 +1,10 @@
+{
+  "name": "Meeting Planner",
+  "version": "0.0.1",
+  "description": "Documentation for the Meeting Planner",
+  "title": "Meeting Planner APIs",
+  "url": "http://localhost:3000",
+  "sampleUrl": false,
+  "defaultVersion": "0.0.0",
+  "apidoc": "0.3.0"
+}
